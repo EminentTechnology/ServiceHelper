@@ -1,0 +1,13 @@
+.idea
+.vscode
+.vs
+bin/
+obj/
+log/
+packages
+*.suo
+*.bak
+*.dbmdl
+*.jfm
+*.user
+*.log
