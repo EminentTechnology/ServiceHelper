@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("ServiceHelper")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A helper class that allows for easy debugging of Windows Services during development")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Eminent Technology")]
 [assembly: AssemblyProduct("Service Helper")]
